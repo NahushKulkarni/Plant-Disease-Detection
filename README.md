@@ -3,7 +3,9 @@
 ##### Screenshots
 
 ![Screenshot_1](https://github.com/NahushKulkarni/Plant-Disease-Detection/blob/master/Screenshot-2.png)
+
 ![Screenshot_2](https://github.com/NahushKulkarni/Plant-Disease-Detection/blob/master/Screenshot-3.png)
+
 ![Screenshot_3](https://github.com/NahushKulkarni/Plant-Disease-Detection/blob/master/Screenshot-4.png)
 
 ##### Project Setup
